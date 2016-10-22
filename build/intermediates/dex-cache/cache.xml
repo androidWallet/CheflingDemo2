@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_62f7afd342f0b6e3123e68520c8a27ba1bab5a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="669f86a19698a63305a2a3c6b31599161781672d">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d28118f75358ac68dc2d34873231fcd5b7d0bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_373b1d2acdddefe804e769ae246aad07e4182141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_19fa81cae9f7f2a1a9486f92e9ffda3c01be2ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3bf84b3038a9f41d2d33f25d9951298df4e34116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_f609e6834b1bd6c0d45994b9d6f6db23795b578d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_45a5bc23057bcff974d6b7334a797a4a15ee6355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_c6cecaff5b38b718b47928e5b0132aed7e992f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0a634f77be76a596a2f50f712fd628a48f0d775f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_3f0b220cc13d2194548fccb8917164360b60e396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9186533e7e2a4e41a5e28959bf04c074b0bece7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c486d40c1d6289d87570753ad693713f96924c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8497817ad9e8ca0fb7e968d6021d3c5f691f2e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d3542c48e13f566fe988a431cb84cc08b2a52a8">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_735614fb75a23fdc50b8c06887ad229f3149afda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3b8ce9d5db288fa680627348526f628ef5b6ac61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1dbc8046be5e19f98d8c60ade9a7f3a69cb66d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f46badf2ae867daf0205a5089d03289056afb4fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_747779b052ecfa5de1f72005edfad7a6215e1fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\mguru\Desktop\Sk\CheflingTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_3591f272b24d3c4ac340ae953e298b79f5d34615\classes.dex" />
+    </item>
+
+</items>
